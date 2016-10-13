@@ -18,7 +18,7 @@ System requirements:
 
 1] MacOS 10.7 to 10.11.6. Currently untested on MacOS 10.12
 
-2] Quartz Composer 4.6.2 or greater (available here (requires devloper account): https://developer.apple.com/download/more/ - look for Additional_Tools_for_Xcode_8.dmg
+2] Quartz Composer 4.6.2 or greater (available here (requires developer account): https://developer.apple.com/download/more/ - look for Additional_Tools_for_Xcode_8.dmg
 
 3] Quartz Composer plugins/patches:
 
