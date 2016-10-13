@@ -1,6 +1,6 @@
 # Tagger
 
-Tagger 0.6.1.2
+Tagger 0.6.1.3
 
 Tagger is alpha release software. Your performance may vary.
 
@@ -63,4 +63,15 @@ Confusingly, some '.plugin' files need to be placed in the 'patches' directory, 
 See here for more information: http://kineme.net/HowtoInstallCustomPatches
 
 The EASIEST way to correctly install all patches and plugins is to use the QC Plugin Manager: http://imimot.com/qc-plugin-manager/
+
+_________________________________
+
+Instructions:
+
+Once Quartz Composer has been installed, as well as all custom patches/plugins, please test the file QCGUI_test.qtz to confirm that Tagger interface buttons are performing correctly and not causing non-specific OpenGL crashes. From testing, running this small program will overcome a temporary OpenGL problem that may cause Tagger to crash. This program may be left open whiolst Tagger is running.
+
+Open Tagger_v0.6.1.3.qtz in Quartz Composer and follow this video for user instructions and demonstration:
+
+https://vimeo.com/113643647
+
 
