@@ -8,7 +8,7 @@ System requirements:
 
 Hardware
 
-1] A fast Apple Mac Computer: recommended Mac Pro with 6GB VRAM.
+1] A fast Apple Mac Computer: recommended Mac Pro with 6GB+ VRAM.
 2] A large screen capable of displaying 1920x1200px or more
 
 Software
@@ -20,13 +20,21 @@ Software
 3] Quartz Composer plugins/patches:
 
 ChartTools.plugin http://kineme.net/product/ChartTools
+
 GLTools.plugin https://github.com/kineme/GLTools
+
 Climb CSV Importer.plugin http://www.climbapp.com/plugin/csvimporter/index.html
+
 FileTools.plugin https://github.com/kineme/FileTools
+
 FXFactory Patches.plugin https://fxfactory.com/download/ (installed as part of FxFactory)
+
 Origami.plugin http://facebook.github.io/origami/
+
 1024_StructureTools.plugin https://1024d.wordpress.com/qc-plugins/
+
 DataTools.plugin https://github.com/kineme/DataTools
+
 FreeboardPatch.plugin http://kineme.net/release/FreeboardPatch/01
 
 Note - to work on versions of MacOS later than 10.8 some of these plugins/patches may require compiling from source using Xcode 7 or later.
