@@ -45,7 +45,7 @@ System requirements:
   jQC 1.0 http://qcdesigners.com/index.php/forums/topic/100/it-s-finally-here-j-qc-1-0-a-u/
 
 
-Note - to work on versions of MacOS later than 10.8 some of the plugins/patches hosted on github may require compiling from source using Xcode 7 or later. Alternatively versions are supplied with this repository that ~may~ work on your MacOS version (tested up to MacOS 10.12)
+Note - to work on versions of MacOS later than 10.8 some of the plugins/patches hosted on github may require compiling from source using Xcode 7 or later. Alternatively versions are supplied with this repository that ~may~ work on your MacOS version (tested up to MacOS 10.11.6)
 
 Some plugins ~may~ have become unavailable online (eg. _1024_StructureTools.plugin)_. 
 
