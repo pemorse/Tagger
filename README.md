@@ -49,7 +49,7 @@ Note - to work on versions of MacOS later than 10.8 some of the plugins/patches 
 
 Some plugins ~may~ have become unavailable online (eg. _1024_StructureTools.plugin)_. 
 
-If so, please use the supplied versions from the attached zip file in this repository. This bundles all the necessary plugins that are not currently available (precompiled) online. Kineme ChartTools, Data Tools, GLTools, FileTools may be 30 day demo versions that will require a end-user license to be purchased after the end of the trial period. Licenses may be purchased from Kineme (http://kineme.net/downloads) or the plugins can be compiled from souce if available on github (see above URLs).
+If so, please use the supplied versions from the attached zip file in this repository. This bundles all the necessary plugins that may not be currently available (precompiled) online. Kineme ChartTools, Data Tools, GLTools, FileTools may be 30 day demo versions that will require a end-user license to be purchased after the end of the trial period. Licenses may be purchased from Kineme (http://kineme.net/downloads) or the plugins can be compiled from souce if available on github (see above URLs).
 
 Quartz Composer can install plugins/patches in two key locations:
 
