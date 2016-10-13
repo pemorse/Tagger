@@ -11,6 +11,7 @@ System requirements:
 # Hardware
 
 1] A fast Apple Mac Computer: recommended Mac Pro with 6GB+ VRAM.
+
 2] A large screen capable of displaying 1920x1200px or more
 
 # Software
