@@ -55,15 +55,15 @@ Quartz Composer can install plugins/patches in two key locations:
 
 ##1.
 
-"/Users/****/Library/Graphics/Quartz Composer Patches" (if you don’t have this folder,create one)
+"/Users/****/Library/Graphics/Quartz Composer Patches" (if you don’t have this folder, create one)
 
-"/Users/****/Library/Graphics/Quartz Composer Plugins" (if you don’t have this folder,create one)
+"/Users/****/Library/Graphics/Quartz Composer Plugins" (if you don’t have this folder, create one)
 
 ##2.
 
-"Macintosh HD/Library/Graphics/Quartz Composer Patches" (if you don’t have this folder,create one)
+"Macintosh HD/Library/Graphics/Quartz Composer Patches" (if you don’t have this folder, create one)
 
-"Macintosh HD/Library/Graphics/Quartz Composer Plugins" (if you don’t have this folder,create one)
+"Macintosh HD/Library/Graphics/Quartz Composer Plugins" (if you don’t have this folder, create one)
 
 Confusingly, some '.plugin' files need to be placed in the 'patches' directory, NOT the plugins directory.
 
@@ -101,7 +101,7 @@ DD, MM, YYYY, HH, MN, SS, Hs, Hrms, Hmax, Tz, Ts, Tc, THMax, EPS, T02, Tp, Hrms.
 
 7,1,1998,14,20,8,2.1,1.45,3.87,7.26,9.8,4.05,9.84,0.83,7.33,11.31,1.55,0.87
 
-Other field values after the 6 timestamp fields (up to 12) can be read and graphed,but will not be assigned field names other than pre-existing ones.
+Other field values after the 6 timestamp fields (up to 12) can be read and graphed, but will not be assigned field names other than pre-existing ones.
 
 Field-name Header interpretation may be implemented in a later version of the software.
 
