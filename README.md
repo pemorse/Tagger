@@ -39,7 +39,9 @@ FreeboardPatch.plugin http://kineme.net/release/FreeboardPatch/01
 
 Note - to work on versions of MacOS later than 10.8 some of these plugins/patches may require compiling from source using Xcode 7 or later.
 
-Some plugins ~may~ have become unavailable online. If so, please use the supplied versions from the attached zip file in this repository.
+Some plugins ~may~ have become unavailable online (eg. _1024_StructureTools.plugin)_. 
+
+If so, please use the supplied versions from the attached zip file in this repository. This bundles all the necessary plugins that are not currently available online. Kineme ChartTools, Data Tools, GLTools, FileTools may be 30 day demo versions that will require a end-user license to be purchased after the end of the trial period. Licenses may be purchased from Kineme (http://kineme.net/downloads) or the plugins can be compiled from souce if available on github (see above URLs).
 
 Quartz Composer can install plugins/patches in two key locations:
 
@@ -52,6 +54,8 @@ Quartz Composer can install plugins/patches in two key locations:
 "Macintosh HD/Library/Graphics/Quartz Composer Plugins" (if you don’t have this folder,create one)
 
 Confusingly, some '.plugin' files need to be placed in the 'patches' directory, NOT the plugins directory.
+
+See here for more information: http://kineme.net/HowtoInstallCustomPatches
 
 The EASIEST way to correctly install all patches and plugins is to use the QC Plugin Manager: http://imimot.com/qc-plugin-manager/
 
