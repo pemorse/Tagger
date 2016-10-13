@@ -31,13 +31,18 @@ FXFactory Patches.plugin https://fxfactory.com/download/ (installed as part of F
 
 Origami.plugin http://facebook.github.io/origami/
 
-1024_StructureTools.plugin https://1024d.wordpress.com/qc-plugins/
+1024_StructureTools.plugin https://1024d.wordpress.com/qc-plugins/ __seems to be unavailable online__
 
 DataTools.plugin https://github.com/kineme/DataTools
 
 FreeboardPatch.plugin http://kineme.net/release/FreeboardPatch/01
 
-Note - to work on versions of MacOS later than 10.8 some of these plugins/patches may require compiling from source using Xcode 7 or later.
+QCGUI.plugin https://github.com/nenghuo/QCGUI
+
+jQC 1.0 http://qcdesigners.com/index.php/forums/topic/100/it-s-finally-here-j-qc-1-0-a-u/
+
+
+Note - to work on versions of MacOS later than 10.8 some of the plugins/patches hosted on github may require compiling from source using Xcode 7 or later. Alternatively versions are supplied with this repository that ~may~ work on your MacOS version (tested up to MacOS 10.12)
 
 Some plugins ~may~ have become unavailable online (eg. _1024_StructureTools.plugin)_. 
 
