@@ -15,7 +15,7 @@ System requirements:
 
 1] MacOS 10.7 to 10.11.6. Currently untested on MacOS 10.12
 
-2] Quart Composer 4.6.2 or greater (available here (requires devloper account): https://developer.apple.com/download/more/ - look for Additional_Tools_for_Xcode_8.dmg
+2] Quartz Composer 4.6.2 or greater (available here (requires devloper account): https://developer.apple.com/download/more/ - look for Additional_Tools_for_Xcode_8.dmg
 
 3] Quartz Composer plugins/patches:
 
@@ -68,7 +68,7 @@ _________________________________
 
 # Instructions:
 
-Once Quartz Composer has been installed, as well as all custom patches/plugins, please test the file QCGUI_test.qtz to confirm that Tagger interface buttons are performing correctly and not causing non-specific OpenGL crashes. From testing, running this small program will overcome a temporary OpenGL problem that may cause Tagger to crash. This program may be left open whiolst Tagger is running.
+Once Quartz Composer has been installed, as well as all custom patches/plugins, please run the file QCGUI_test.qtz to confirm that Tagger interface buttons are performing correctly and not causing non-specific OpenGL crashes. From testing, running this small program will overcome a temporary OpenGL problem that may cause Tagger to crash. This program may be left open in the background whilst Tagger is running.
 
 Open Tagger_v0.6.1.3.qtz in Quartz Composer and follow this video for user instructions and demonstration:
 
