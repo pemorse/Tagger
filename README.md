@@ -2,7 +2,9 @@
 
 # Tagger 0.6.1.3
 
-Tagger is alpha release software. Your performance may vary.
+Tagger is an interactive software tool and workflow to visualise, characterise, sample and tag 1d time-variant geoscientific datasets from both local and cloud-based repositories. It uses an animated interface and human-computer interaction to utilise the capacity of human expert observers to identify features via enhanced visual analytics. 
+
+Tagger is alpha release research software. Your performance may vary.
 
 System requirements:
 
@@ -76,4 +78,4 @@ https://vimeo.com/113643647
 
 This repository includes an example WaveRider buoy data file: cpso2001_h1.csv 
 
-This version of Tagger works with local .csv/.txt data files.
+For demonstration purposes, this is a non-THREDDS-capable version of Tagger that works with local .csv/.txt data files.
