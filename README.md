@@ -53,11 +53,15 @@ If so, please use the supplied versions from the attached zip file in this repos
 Quartz Composer can install plugins/patches in two key locations:
 
 ##1.
+
 "/Users/****/Library/Graphics/Quartz Composer Patches" (if you don’t have this folder,create one)
+
 "/Users/****/Library/Graphics/Quartz Composer Plugins" (if you don’t have this folder,create one)
 
 ##2.
+
 "Macintosh HD/Library/Graphics/Quartz Composer Patches" (if you don’t have this folder,create one)
+
 "Macintosh HD/Library/Graphics/Quartz Composer Plugins" (if you don’t have this folder,create one)
 
 Confusingly, some '.plugin' files need to be placed in the 'patches' directory, NOT the plugins directory.
