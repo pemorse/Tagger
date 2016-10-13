@@ -89,7 +89,7 @@ _________________________________
 
 # Data
 
-Tagger can be used with any .csv file on the following conditions
+Tagger can be used with any .csv file that meets the following criteria:
 
 1] The first 6 fields (0-5) contain timestamp data in the format:
 
