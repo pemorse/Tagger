@@ -103,6 +103,6 @@ DD, MM, YYYY, HH, MN, SS, Hs, Hrms, Hmax, Tz, Ts, Tc, THMax, EPS, T02, Tp, Hrms.
 
 Other field values after the 6 timestamp fields (up to 12) can be read and graphed, but will not be assigned field names other than pre-existing ones.
 
-Field-name Header interpretation may be implemented in a later version of the software.
+Field-name Header interpretation may be implemented in a later version of the software - but there is nothing stopping the inquistive user to implment this themself.
 
 
