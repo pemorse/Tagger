@@ -74,4 +74,6 @@ Open Tagger_v0.6.1.3.qtz in Quartz Composer and follow this video for user instr
 
 https://vimeo.com/113643647
 
+This repository includes an example WaveRider buoy data file: cpso2001_h1.csv 
 
+This version of Tagger works with local .csv/.txt data files.
