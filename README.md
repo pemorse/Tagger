@@ -6,12 +6,12 @@ Tagger is alpha release software. Your performance may vary.
 
 System requirements:
 
-__Hardware
+# Hardware
 
 1] A fast Apple Mac Computer: recommended Mac Pro with 6GB+ VRAM.
 2] A large screen capable of displaying 1920x1200px or more
 
-__Software
+# Software
 
 1] MacOS 10.7 to 10.11.6. Currently untested on MacOS 10.12
 
@@ -19,27 +19,27 @@ __Software
 
 3] Quartz Composer plugins/patches:
 
-ChartTools.plugin http://kineme.net/product/ChartTools
+  ChartTools.plugin http://kineme.net/product/ChartTools
 
-GLTools.plugin https://github.com/kineme/GLTools
+  GLTools.plugin https://github.com/kineme/GLTools
 
-Climb CSV Importer.plugin http://www.climbapp.com/plugin/csvimporter/index.html
+  Climb CSV Importer.plugin http://www.climbapp.com/plugin/csvimporter/index.html
 
-FileTools.plugin https://github.com/kineme/FileTools
+  FileTools.plugin https://github.com/kineme/FileTools
 
-FXFactory Patches.plugin https://fxfactory.com/download/ (installed as part of FxFactory)
+  FXFactory Patches.plugin https://fxfactory.com/download/ (installed as part of FxFactory)
 
-Origami.plugin http://facebook.github.io/origami/
+  Origami.plugin http://facebook.github.io/origami/
 
-1024_StructureTools.plugin https://1024d.wordpress.com/qc-plugins/ __seems to be unavailable online__
+  1024_StructureTools.plugin https://1024d.wordpress.com/qc-plugins/ __seems to be unavailable online__
 
-DataTools.plugin https://github.com/kineme/DataTools
+  DataTools.plugin https://github.com/kineme/DataTools
 
-FreeboardPatch.plugin http://kineme.net/release/FreeboardPatch/01
+  FreeboardPatch.plugin http://kineme.net/release/FreeboardPatch/01
 
-QCGUI.plugin https://github.com/nenghuo/QCGUI
+  QCGUI.plugin https://github.com/nenghuo/QCGUI
 
-jQC 1.0 http://qcdesigners.com/index.php/forums/topic/100/it-s-finally-here-j-qc-1-0-a-u/
+  jQC 1.0 http://qcdesigners.com/index.php/forums/topic/100/it-s-finally-here-j-qc-1-0-a-u/
 
 
 Note - to work on versions of MacOS later than 10.8 some of the plugins/patches hosted on github may require compiling from source using Xcode 7 or later. Alternatively versions are supplied with this repository that ~may~ work on your MacOS version (tested up to MacOS 10.12)
@@ -66,7 +66,7 @@ The EASIEST way to correctly install all patches and plugins is to use the QC Pl
 
 _________________________________
 
-Instructions:
+# Instructions:
 
 Once Quartz Composer has been installed, as well as all custom patches/plugins, please test the file QCGUI_test.qtz to confirm that Tagger interface buttons are performing correctly and not causing non-specific OpenGL crashes. From testing, running this small program will overcome a temporary OpenGL problem that may cause Tagger to crash. This program may be left open whiolst Tagger is running.
 
