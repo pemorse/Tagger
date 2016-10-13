@@ -75,7 +75,7 @@ _________________________________
 
 # Instructions:
 
-Once Quartz Composer has been installed, as well as all custom patches/plugins, please run the file QCGUI_test.qtz to confirm that Tagger interface buttons are performing correctly and not causing non-specific OpenGL crashes. From testing, running this small program will overcome a temporary OpenGL problem that may cause Tagger to crash under MacOS 10.11, earlier versions (10.7-10.10) are not affected. This program may be left open in the background whilst Tagger is running.
+Once Quartz Composer has been installed, as well as all custom patches/plugins, please run the file QCGUI_test.qtz to confirm that Tagger interface buttons are performing correctly and not causing non-specific OpenGL crashes. From testing, running this small program will overcome a temporary OpenGL problem that may cause Tagger to crash under MacOS 10.11/10.12, earlier versions (10.7-10.10) are not affected. This program may be left open in the background whilst Tagger is running.
 
 Open Tagger_v0.6.1.3.qtz in Quartz Composer and follow this video for user instructions and demonstration:
 
