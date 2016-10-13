@@ -84,3 +84,25 @@ https://vimeo.com/113643647
 This repository includes an example WaveRider buoy data file: cpso2001_h1.csv 
 
 For demonstration purposes, this is a non-THREDDS-capable version of Tagger that works with local .csv/.txt data files.
+
+_________________________________
+
+# Data
+
+Tagger can be used with any .csv file on the following conditions
+
+1] The first 6 fields (0-5) contain timestamp data in the format:
+
+DD, MM, YYYY, HH, MN, SS, (Day, Month, Year, Hour, Minute, Second). 
+
+2] It is currently hard-coded for the WaveRider Buoy data - meaning that its GUI nomenclature for other variables after the timestamp will not change, i.e. it is hard-coded to
+
+DD, MM, YYYY, HH, MN, SS, Hs, Hrms, Hmax, Tz, Ts, Tc, THMax, EPS, T02, Tp, Hrms.1, EPS.1 - e.g.
+
+7,1,1998,14,20,8,2.1,1.45,3.87,7.26,9.8,4.05,9.84,0.83,7.33,11.31,1.55,0.87
+
+Other field values after the 6 timestamp fields (up to 12) can be read and graphed,but will not be assigned field names other than pre-existing ones.
+
+Field-name Header interpretation will be implemented in a later version of the software.
+
+
