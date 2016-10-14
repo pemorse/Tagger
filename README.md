@@ -47,7 +47,7 @@ System requirements:
 
 Note - to work on versions of MacOS later than 10.8 some of the plugins/patches hosted on github may require compiling from source using Xcode 7 or later. 
 
-__Alternatively versions are supplied with this repository that ~may~ work on your MacOS version (tested up to MacOS 10.11.6)
+__Alternatively, versions are supplied with this repository that ~may~ work on your MacOS version (tested up to MacOS 10.11.6)__
 
 Some plugins ~may~ have become unavailable online (eg. _1024_StructureTools.plugin)_. 
 
