@@ -24,7 +24,7 @@ System requirements:
 
 3] Quartz Composer plugins/patches: 
 __Versions are supplied with this repository that ~may~ work on your MacOS version (tested up to MacOS 10.11.6)__
-Use the supplied versions from the attached zip file in this repository. This bundles necessary plugins/patches that may not be currently available (precompiled) online. Kineme ChartTools, Data Tools, GLTools, FileTools, may be 30 day demo versions that will require an end-user license to be purchased after the end of the trial period. Licenses may be purchased from Kineme (http://kineme.net/downloads) or the plugins can be compiled from souce if available on github (see below URLs). Kineme Core may be installed optionally. 
+Use the supplied versions from the attached zip files in this repository. This bundles necessary plugins/patches that may not be currently available (precompiled) online. Kineme ChartTools, Data Tools, GLTools, and FileTools will be 30 day demo versions that will require an end-user license to be purchased after the end of the trial period. Licenses may be purchased from Kineme (http://kineme.net/downloads) or the plugins can be compiled from souce if available on github (see below URLs). Kineme Core may be installed optionally. 
  __Bundled plugin/patches are indicated by an asterisk, below.__
 
 4] Quartz Composer plugins/patches download URLs:
@@ -83,7 +83,7 @@ Quartz Composer can install plugins/patches in two key locations:
 
 Confusingly, some '.plugin' files need to be placed in the 'patches' directory, NOT the plugins directory.
 
-See here for more information: http://kineme.net/HowtoInstallCustomPatches
+See here for more information: http://kineme.net/HowtoInstallCustomPatches or here: https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposer_Patch_PlugIn_ProgGuide/plugin_1/plugin_1.html
 
 
 _________________________________
