@@ -20,7 +20,7 @@ System requirements:
 
 1] MacOS 10.7 to 10.11.6. Currently untested on MacOS 10.12
 
-2] Quartz Composer 4.6.2 or greater (available here (requires developer account): https://developer.apple.com/download/more/ - look for Additional_Tools_for_Xcode_8.dmg if you are running MacOS 10.11 or later; look for Additional_Tools_for_Xcode_7.dmg on MacOS 10.10 or earlier. Quartz Composer is located inside the 'Graphics' folder.
+2] Quartz Composer 4.6.2 or greater, available here (requires developer account login): https://developer.apple.com/download/more/ - look for Additional_Tools_for_Xcode_8.dmg if you are running MacOS 10.11 or later; look for Additional_Tools_for_Xcode_7.dmg on MacOS 10.10 or earlier. Quartz Composer is located inside the 'Graphics' folder.
 
 3] Quartz Composer plugins/patches: 
 __Versions are supplied with this repository that ~may~ work on your MacOS version (tested up to MacOS 10.11.6)__
@@ -44,6 +44,7 @@ Use the supplied versions from the attached zip files in this repository. This b
 
   *Climb CSV Importer.plugin http://www.climbapp.com/plugin/csvimporter/index.html
 
+  
   FXFactory Patches.plugin https://fxfactory.com/download/ (installed as part of FxFactory)
   
   jQC 1.0 http://qcdesigners.com/index.php/forums/topic/100/it-s-finally-here-j-qc-1-0-a-u/
