@@ -53,11 +53,9 @@ Use the supplied versions from the attached zip files in this repository. This b
   QCGUI.plugin https://github.com/nenghuo/QCGUI
 
   
-Note - to work on versions of MacOS later than 10.8 some of the plugins/patches hosted on github may require compiling from source using Xcode 7 or later. This has been done for bundled versions, though these are not guaranteed to work, depending upon your systrem configuration.
+Note - to work on versions of MacOS later than 10.8 some of the plugins/patches hosted on github may require compiling from source using Xcode 7 or later. This has been done for bundled versions, though these are not guaranteed to work, depending upon your system configuration.
 
 If compiling from source, some plugins/patches require the QCPatchXcodeTemplate available here https://github.com/kineme/QCPatchXcodeTemplate or here http://kineme.net/QCPatchXcodeTemplate
-
-__Alternatively, versions are supplied with this repository that ~may~ work on your MacOS version (tested up to MacOS 10.11.6) - see above__
 
 Some plugins ~may~ have become unavailable or difficult to locate online (eg. _1024_StructureTools.plugin)_.  
 
