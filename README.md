@@ -6,6 +6,8 @@ Tagger is an interactive software tool and workflow to visualise, characterise, 
 
 Tagger is alpha release research software. Your performance may vary.
 
+Please read these instructions in full before attempting to install the software.
+
 System requirements:
 
 # Hardware
@@ -20,38 +22,50 @@ System requirements:
 
 2] Quartz Composer 4.6.2 or greater (available here (requires developer account): https://developer.apple.com/download/more/ - look for Additional_Tools_for_Xcode_8.dmg if you are running MacOS 10.11 or later; look for Additional_Tools_for_Xcode_7.dmg on MacOS 10.10 or earlier. Quartz Composer is located inside the 'Graphics' folder.
 
-3] Quartz Composer plugins/patches:
+3] Quartz Composer plugins/patches: 
+__Versions are supplied with this repository that ~may~ work on your MacOS version (tested up to MacOS 10.11.6)__
+Use the supplied versions from the attached zip file in this repository. This bundles necessary plugins/patches that may not be currently available (precompiled) online. Kineme ChartTools, Data Tools, GLTools, FileTools, may be 30 day demo versions that will require an end-user license to be purchased after the end of the trial period. Licenses may be purchased from Kineme (http://kineme.net/downloads) or the plugins can be compiled from souce if available on github (see below URLs). Kineme Core may be installed optionally. 
+ __Bundled plugin/patches are indicated by an asterisk, below.__
 
-  ChartTools.plugin http://kineme.net/product/ChartTools
+4] Quartz Composer plugins/patches download URLs:
 
-  GLTools.plugin https://github.com/kineme/GLTools
+  *ChartTools.plugin http://kineme.net/product/ChartTools
+  
+  *DataTools.plugin https://github.com/kineme/DataTools
+  
+  *FileTools.plugin https://github.com/kineme/FileTools
+  
+  *FreeboardPatch.plugin http://kineme.net/release/FreeboardPatch/01
 
-  Climb CSV Importer.plugin http://www.climbapp.com/plugin/csvimporter/index.html
+  *GLTools.plugin https://github.com/kineme/GLTools
+  
+  
+  *1024_StructureTools.plugin https://1024d.wordpress.com/qc-plugins/ __seems to be unavailable online__
 
-  FileTools.plugin https://github.com/kineme/FileTools
+  *Climb CSV Importer.plugin http://www.climbapp.com/plugin/csvimporter/index.html
 
   FXFactory Patches.plugin https://fxfactory.com/download/ (installed as part of FxFactory)
+  
+  jQC 1.0 http://qcdesigners.com/index.php/forums/topic/100/it-s-finally-here-j-qc-1-0-a-u/
 
   Origami.plugin http://facebook.github.io/origami/
 
-  1024_StructureTools.plugin https://1024d.wordpress.com/qc-plugins/ __seems to be unavailable online__
-
-  DataTools.plugin https://github.com/kineme/DataTools
-
-  FreeboardPatch.plugin http://kineme.net/release/FreeboardPatch/01
-
   QCGUI.plugin https://github.com/nenghuo/QCGUI
 
-  jQC 1.0 http://qcdesigners.com/index.php/forums/topic/100/it-s-finally-here-j-qc-1-0-a-u/
+  
+Note - to work on versions of MacOS later than 10.8 some of the plugins/patches hosted on github may require compiling from source using Xcode 7 or later. This has been done for bundled versions, though these are not guaranteed to work, depending upon your systrem configuration.
 
+If compiling from source, some plugins/patches require the QCPatchXcodeTemplate available here https://github.com/kineme/QCPatchXcodeTemplate or here http://kineme.net/QCPatchXcodeTemplate
 
-Note - to work on versions of MacOS later than 10.8 some of the plugins/patches hosted on github may require compiling from source using Xcode 7 or later. 
+__Alternatively, versions are supplied with this repository that ~may~ work on your MacOS version (tested up to MacOS 10.11.6) - see above__
 
-__Alternatively, versions are supplied with this repository that ~may~ work on your MacOS version (tested up to MacOS 10.11.6)__
+Some plugins ~may~ have become unavailable or difficult to locate online (eg. _1024_StructureTools.plugin)_.  
 
-Some plugins ~may~ have become unavailable online (eg. _1024_StructureTools.plugin)_. 
+________________________________
 
-If so, please use the supplied versions from the attached zip file in this repository. This bundles all the necessary plugins that may not be currently available (precompiled) online. Kineme ChartTools, Data Tools, GLTools, FileTools may be 30 day demo versions that will require an end-user license to be purchased after the end of the trial period. Licenses may be purchased from Kineme (http://kineme.net/downloads) or the plugins can be compiled from souce if available on github (see above URLs).
+# Installation
+
+The EASIEST way to correctly install all patches and plugins is to use the QC Plugin Manager: http://imimot.com/qc-plugin-manager/ This will correctly install plugins & patches in their correct locations.
 
 Quartz Composer can install plugins/patches in two key locations:
 
@@ -71,7 +85,6 @@ Confusingly, some '.plugin' files need to be placed in the 'patches' directory, 
 
 See here for more information: http://kineme.net/HowtoInstallCustomPatches
 
-The EASIEST way to correctly install all patches and plugins is to use the QC Plugin Manager: http://imimot.com/qc-plugin-manager/
 
 _________________________________
 
