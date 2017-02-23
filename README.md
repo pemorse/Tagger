@@ -49,7 +49,7 @@ Use the supplied versions from the attached zip files in this repository. This b
   
   jQC 1.0 http://qcdesigners.com/index.php/forums/topic/100/it-s-finally-here-j-qc-1-0-a-u/
 
-  Origami.plugin http://facebook.github.io/origami/
+  Origami.plugin https://github.com/facebookarchive/origami (note: this is now deprecated, but required for Tagger)
 
   QCGUI.plugin https://github.com/nenghuo/QCGUI
 
