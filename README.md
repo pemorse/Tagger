@@ -18,12 +18,12 @@ System requirements:
 
 # Software
 
-1] MacOS 10.7 to 10.11.6. Currently untested on MacOS 10.12
+1] MacOS 10.7 to 10.12.3
 
 2] Quartz Composer 4.6.2 or greater, available here (requires developer account login): https://developer.apple.com/download/more/ - look for Additional_Tools_for_Xcode_8.dmg if you are running MacOS 10.11 or later; look for Additional_Tools_for_Xcode_7.dmg on MacOS 10.10 or earlier. Quartz Composer is located inside the 'Graphics' folder.
 
 3] Quartz Composer plugins/patches: 
-__Versions are supplied with this repository that ~may~ work on your MacOS version (tested up to MacOS 10.11.6)__
+__Versions are supplied with this repository that ~may~ work on your MacOS version (tested up to MacOS 10.12.3)__
 Use the supplied versions from the attached zip files in this repository. This bundles necessary plugins/patches that may not be currently available (precompiled) online. Kineme ChartTools, Data Tools, GLTools, and FileTools will be 30 day demo versions that will require an end-user license to be purchased after the end of the trial period. Licenses may be purchased from Kineme (http://kineme.net/downloads) or the plugins can be compiled from souce if available on github (see below URLs). Kineme Core may be installed optionally. 
  __Bundled plugin/patches are indicated by an asterisk, below.__
 
