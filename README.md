@@ -93,7 +93,8 @@ Once Quartz Composer has been installed, as well as all custom patches/plugins, 
 
 Open Tagger_v0.6.1.3.qtz in Quartz Composer and follow this video for user instructions and demonstration:
 
-https://vimeo.com/113643647
+https://vimeo.com/113643647 (long version: 12 mins)
+https://vimeo.com/205325366 (short version: 7 mins)
 
 This repository includes an example WaveRider buoy data file: cpso2001_h1.csv 
 
